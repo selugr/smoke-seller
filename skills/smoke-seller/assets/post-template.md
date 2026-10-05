@@ -65,8 +65,35 @@ Same fact, three volumes. Numbers never change between levels.
 | `humble` | ✅ Payments now protected against double charges | fixed, improved, protected | Plain next step |
 | `hype` | 🛡️ Double charges at checkout: fixed at the root | restored, unlocked, hardened | Upbeat one-liner 🚀 |
 | `legendary` | 🦸 Double charges? Not on our watch. Payments are now bulletproof 💥 | crushed, conquered, bulletproof, game-changer | Keynote-style rallying cry |
+| `buzz` | 🚀 Humbled and thrilled to announce: double charges, to infinity and beyond! 💥 | LinkedIn clichés, see below | "To infinity and beyond! 🚀" plus an "Agree?" |
 
 "1 incident" at `legendary` stays 1 incident: "caught at the very first strike ⚔️".
+
+## Buzz mode
+
+Pure parody, for laughing with the genre. Max excitement, every cliché welcome, the facts untouched.
+
+- Open with "Humbled and thrilled to announce…" or "I'm excited to share…".
+- Sprinkle: journey, north star, game-changer, synergy, unlock, moving the needle, growth mindset, lessons learned, grateful.
+- Treat the smallest win as a space mission: launch, orbit, mission control, liftoff, "one small step for me, one giant leap for the product".
+- Close with `To infinity and beyond! 🚀`, then a bait question like `Agree? 👇` or `Thoughts?`.
+- Optional: one line breaks the fourth wall, e.g. `(It was a typo fix.)`. Only if the dev is okay with the wink.
+- Never invent a number or a collaborator, not even for the joke.
+
+Example, same fact as the worked example below:
+
+```
+🚀 **Humbled and thrilled to announce: Safari checkout is back, to infinity and beyond!**
+
+📈 Conversion back from 1.1% to 3.4%: one small step for me, one giant leap for the product
+🧹 1,240 daily errors down to zero. Mission control is crying 🥹
+🛡️ New safeguards: growth mindset, but for code
+🌍 Every market, every Safari, one north star
+🎯 Lessons learned: ship, grow, repeat
+
+To infinity and beyond! 🚀 Agree? 👇
+🙌 Eternally grateful to @Jane Doe, co-pilot of this journey!
+```
 
 ## Emoji palette
 

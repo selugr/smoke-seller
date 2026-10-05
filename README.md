@@ -22,10 +22,14 @@ An agent skill for developers who are great at shipping and terrible at bragging
 
 The smoke is in the tone, never in the numbers: every figure comes from a real data source or from you.
 
+> **Yes, it's satire. And yes, it works.** *Smoke seller* is the literal translation of the Spanish *vendehúmos*: think "blowing smoke", but with sources. Some people sell small wins as moon landings, so I built a skill that lets every dev do it in ten seconds. The idea: if everyone can sell smoke, maybe nobody has to anymore. 🚀
+
 ## Features
 
 - 🚀 **Impact posts in seconds**: headline, scannable bullets and a closing line, in English, ready to paste anywhere.
-- 🎚️ **Three epic levels**: `humble`, `hype` (default) and `legendary`. Same facts, different volume.
+- 🎚️ **Four epic levels**: `humble`, `hype` (default), `legendary` and `buzz`. Same facts, different volume.
+- 🧑‍🚀 **Buzz mode**: full Buzz Lightyear parody with LinkedIn clichés, to laugh with the genre. To infinity and beyond!
+- 🌐 **Any language**: English by default, pass `lang=es`, `lang=fr`... for another one.
 - 📊 **Data-backed hype**: pulls before/after numbers from whatever is connected (analytics, error tracking, performance monitoring, BI, data warehouse).
 - 🙋 **Asks instead of inventing**: when a number would strengthen the story, it asks you for it, one question at a time.
 - 🔄 **Spin vocabulary**: "fixed my own bug" becomes "hardened the flow and added safeguards". Blame never appears, lies never do either.
@@ -42,6 +46,7 @@ The smoke is in the tone, never in the numbers: every figure comes from a real d
 | `humble` | Professional, understated, no superlatives | 1 to 2 | 3 bullets, ~50 words |
 | `hype` | Upbeat, confident | 1 per bullet | 5 bullets, ~80 words |
 | `legendary` | Heroic verbs, keynote closing | Generous | 5 bullets, ~100 words |
+| `buzz` | Parody: Buzz Lightyear excitement + LinkedIn clichés | Maximum | 5 bullets, ~120 words |
 
 ## Example
 
@@ -100,6 +105,8 @@ Or pick the level explicitly:
 
 ```
 /smoke-seller legendary
+/smoke-seller buzz
+/smoke-seller hype lang=es
 ```
 
 Point it to your PRs, tickets or branch and it does the rest. Connect your analytics, error tracking or BI tools (MCP servers or CLIs) for numbers; without them, it asks you.
