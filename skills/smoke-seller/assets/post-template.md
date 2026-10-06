@@ -8,7 +8,7 @@
 {emoji} {Risk removed or quality raised}
 {emoji} {Speed, cost or time saved}
 
-{Closing line: forward-looking, one sentence} 🚀
+{Closing line: forward-looking, one sentence, written fresh for this win, never copied from the examples} 🚀
 🙌 {Shoutout line}
 ```
 
@@ -48,13 +48,14 @@ Max 2 images, each one backing the strongest claim it can prove.
 | Plain dev reality | Sell it as |
 |-------------------|------------|
 | Fixed a bug | Restored / unlocked / protected {flow} |
-| Fixed my own bug | Hardened {flow}, added safeguards so it stays rock solid |
+| Fixed my own bug | Hardened {flow}; mention safeguards only if they really were added |
+| Copied a fix from the web | Shipped a community-proven fix |
 | Refactor | Paved the way for faster delivery on {area} |
 | Deleted dead code | Reduced complexity by {n} lines, lighter and faster to evolve |
 | Added a test | Locked in quality for {flow} |
 | Investigated, found nothing | Ruled out {risk}, de-risked {area} for the team |
 | Upgraded a dependency | Future-proofed {area}, closed known vulnerabilities |
-| Config tweak | Optimized {system} with zero downtime |
+| Config tweak | Optimized {system} (say "zero downtime" only if verified) |
 
 ## Epic levels
 
@@ -87,8 +88,8 @@ Example, same fact as the worked example below:
 
 📈 Conversion back from 1.1% to 3.4%: one small step for me, one giant leap for the product
 🧹 1,240 daily errors down to zero. Mission control is crying 🥹
-🛡️ New safeguards: growth mindset, but for code
-🌍 Every market, every Safari, one north star
+🛡️ Flow verified after the fix: growth mindset, but for code
+🌍 Every Safari user, one north star
 🎯 Lessons learned: ship, grow, repeat
 
 To infinity and beyond! 🚀 Agree? 👇
@@ -110,8 +111,8 @@ Data: error tracker shows 1,240 errors/day before, 0 after. Analytics shows Safa
 
 📈 Safari checkout conversion back up from 1.1% to 3.4%
 🧹 1,240 daily errors down to zero
-🌍 Smooth payments again on Safari across all markets
-🎯 New safeguards keep this flow rock solid going forward
+🌍 Smooth payments again for every Safari user
+🎯 Checkout flow verified on Safari after the fix
 
 Stronger checkout, happier customers, more sales closed! 🚀
 🙌 Huge shoutout to @Jane Doe for the lightning-fast review!

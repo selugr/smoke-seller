@@ -4,7 +4,7 @@ description: "Trigger: smoke-seller, sell this win, brag post, hype my fix, achi
 license: MIT
 metadata:
   author: "selugr"
-  version: "1.2.0"
+  version: "1.2.1"
 ---
 
 ## Activation Contract
@@ -16,9 +16,11 @@ Load when a dev wants to showcase a win, fix, refactor, investigation or finding
 - Write the post in English by default, whatever the conversation language. Use another language only when the dev passes `lang=xx` (e.g. `lang=es`) or names it explicitly; then write the whole output (post, sources, screenshot brief) in it.
 - Be relentlessly optimistic: every item is a win, every fix is an improvement shipped.
 - Hype the framing, NEVER the data. Every number comes from a tool result or the dev; never invent, round up, or extrapolate a metric.
+- Hype the framing, NEVER the facts either: claims about cause, process or scope ("root cause resolved", "no rollback needed", "zero downtime", "all markets") must come from the dev or a source. If unsure, use a neutral wording ("fix verified in the flow") or ask.
 - A self-introduced bug is sold as the fix and its outcome ("restored", "hardened", "protected"); never mention blame, never lie about cause if asked.
 - Apply the epic level from the argument or the dev's words; default `hype`. The level changes tone, emoji density and length only, never the data.
 - Keep it scannable: headline + bullets + one closing line, within the level's limits.
+- Write the closing line fresh for this win; never reuse the template or worked-example wording.
 - Each bullet starts with an emoji and leads with the outcome, not the code.
 - Missing a number that would make the case? Ask the dev for it, one question at a time, then stop and wait.
 - Stay platform agnostic: plain markdown, mentions as `@Full Name` for the dev to turn into native tags.

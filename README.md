@@ -32,7 +32,7 @@ The smoke is in the tone, never in the numbers: every figure comes from a real d
 - 🌐 **Any language**: English by default, pass `lang=es`, `lang=fr`... for another one.
 - 📊 **Data-backed hype**: pulls before/after numbers from whatever is connected (analytics, error tracking, performance monitoring, BI, data warehouse).
 - 🙋 **Asks instead of inventing**: when a number would strengthen the story, it asks you for it, one question at a time.
-- 🔄 **Spin vocabulary**: "fixed my own bug" becomes "hardened the flow and added safeguards". Blame never appears, lies never do either.
+- 🔄 **Spin vocabulary**: "fixed my own bug" becomes "hardened the flow". Blame never appears, lies never do either.
 - 🌱 **No metric? No problem**: sells scope instead: users reached, markets, risk avoided, time saved.
 - 🔗 **Sources list**: every number in the post is mapped to the tool, query window or person that provided it.
 - 🙌 **Shoutouts**: thanks the collaborators found in tickets, PRs, reviews and commits, as `@Full Name` so you can turn them into native tags on any platform.
@@ -57,8 +57,8 @@ The smoke is in the tone, never in the numbers: every figure comes from a real d
 
 📈 Safari checkout conversion back up from 1.1% to 3.4%
 🧹 1,240 daily errors down to zero
-🌍 Smooth payments again on Safari across all markets
-🎯 New safeguards keep this flow rock solid going forward
+🌍 Smooth payments again for every Safari user
+🎯 Checkout flow verified on Safari after the fix
 
 Stronger checkout, happier customers, more sales closed! 🚀
 🙌 Huge shoutout to @Jane Doe for the lightning-fast review!
